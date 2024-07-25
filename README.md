@@ -1,6 +1,13 @@
 # Baked Good Tier List
 
-- [x] repo setup
+## Repo Setup
+
+- [x] `git` submodule setup
+- [x] working title card
+- [x] working single presentation slide
+
+## To do list for the presentation
+
 - [ ] primary presentation
   - [ ] What is a baked good
   - [ ] list of questions decided upon for the primary
