@@ -7,5 +7,6 @@
   - [ ] Where questions come from
   - [ ] Rules of the debate
   - [ ] Expectations of the debate
-  - [ ] slides
-    - 
+  - [ ] slides for each category
+  - [ ] how are we going to rank it?
+    - we can't just rank on deliciousness, because every single baked good is going to be at minimum A tier
