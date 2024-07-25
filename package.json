@@ -1,0 +1,7 @@
+{
+  "name": "baked-goods",
+  "private": true,
+  "scripts": {
+    "start": "python -m http.server"
+  }
+}
